@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ahmed/conf/username.txt" added="2025-02-16T18:27:47.480218Z" modified="2025-02-16T18:27:47.480224Z" visited="2025-02-16T18:27:47.480218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-16T18:27:47.480222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/student-test/assignment1/Test_validate_username.c" added="2025-02-16T18:28:07.375484Z" modified="2025-02-16T18:43:14.644680Z" visited="2025-02-16T18:28:07.375485Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-16T18:43:14.644677Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/assignment-autotest/examples/autotest-validate/autotest-validate.c" added="2025-02-16T18:30:12.592309Z" modified="2025-02-16T18:31:15.345980Z" visited="2025-02-16T18:30:12.592309Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-16T18:31:15.345977Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/examples/autotest-validate/autotest-validate.c" added="2025-02-16T18:40:17.194064Z" modified="2025-02-16T18:41:24.652530Z" visited="2025-02-16T18:40:17.194064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-16T18:41:24.652520Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/student-test/assignment1/Test_validate_username_Runner.c" added="2025-02-16T18:43:00.704251Z" modified="2025-02-16T18:43:00.704255Z" visited="2025-02-16T18:43:00.704252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-16T18:43:00.704253Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/finder-app/finder-test%20(Copy).sh" added="2025-02-16T18:45:34.607991Z" modified="2025-02-16T18:45:34.607996Z" visited="2025-02-16T18:45:34.607992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-16T18:45:34.607993Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/finder-app/writer.sh" added="2025-02-16T18:46:09.559243Z" modified="2025-02-16T18:46:09.559246Z" visited="2025-02-16T18:46:09.559244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-02-16T18:46:09.559244Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

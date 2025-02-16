@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ahmed/conf/username.txt" added="2025-02-16T18:27:50.681458Z" modified="2025-02-16T18:46:15.132622Z" visited="2025-02-16T18:46:10.390294Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-16T18:46:15.132622Z" count="35"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/student-test/assignment1/Test_validate_username.c" added="2025-02-16T18:28:10.692638Z" modified="2025-02-16T18:46:15.132618Z" visited="2025-02-16T18:46:10.390029Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-16T18:46:15.132617Z" count="31"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/assignment-autotest/examples/autotest-validate/autotest-validate.c" added="2025-02-16T18:30:15.697337Z" modified="2025-02-16T18:46:15.132620Z" visited="2025-02-16T18:46:10.222980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-16T18:46:15.132620Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/examples/autotest-validate/autotest-validate.c" added="2025-02-16T18:40:20.691970Z" modified="2025-02-16T18:46:15.132619Z" visited="2025-02-16T18:46:10.414401Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-16T18:46:15.132619Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/student-test/assignment1/Test_validate_username_Runner.c" added="2025-02-16T18:43:03.706604Z" modified="2025-02-16T18:46:15.132621Z" visited="2025-02-16T18:46:10.388901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-16T18:46:15.132621Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ahmed/finder-app/writer.sh" added="2025-02-16T18:46:12.727007Z" modified="2025-02-16T18:46:15.132623Z" visited="2025-02-16T18:46:10.450403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-02-16T18:46:15.132623Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
